@@ -20,6 +20,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0049-group-anagrams](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -55,6 +57,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
