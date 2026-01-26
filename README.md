@@ -12,6 +12,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -45,14 +47,17 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -74,4 +79,16 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
