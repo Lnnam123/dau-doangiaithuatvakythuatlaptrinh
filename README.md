@@ -24,6 +24,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0058-length-of-last-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -66,6 +68,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -99,4 +102,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
