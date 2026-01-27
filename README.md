@@ -17,6 +17,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0058-length-of-last-word) |
@@ -91,4 +93,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
