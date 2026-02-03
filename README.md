@@ -15,6 +15,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -109,4 +110,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
