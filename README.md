@@ -54,6 +54,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0387-first-unique-character-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -113,6 +114,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -129,4 +131,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
