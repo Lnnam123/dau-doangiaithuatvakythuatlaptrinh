@@ -17,6 +17,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0455-assign-cookies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0495-teemo-attacking) |
+| [0575-distribute-candies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
@@ -35,6 +36,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0389-find-the-difference](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0454-4sum-ii) |
+| [0575-distribute-candies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
