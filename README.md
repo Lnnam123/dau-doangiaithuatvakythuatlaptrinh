@@ -21,6 +21,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0389-find-the-difference](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
