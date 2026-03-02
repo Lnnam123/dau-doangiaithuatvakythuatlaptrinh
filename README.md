@@ -21,6 +21,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
@@ -126,6 +127,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | ------- |
 | [0455-assign-cookies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
 ## Merge Sort
 |  |
 | ------- |
