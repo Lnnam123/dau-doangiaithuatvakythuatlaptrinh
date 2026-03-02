@@ -31,6 +31,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1436-destination-city](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1436-destination-city](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1694-reformat-phone-number) |
+| [1773-count-items-matching-a-rule](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
