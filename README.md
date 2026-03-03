@@ -34,6 +34,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1773-count-items-matching-a-rule](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0455-assign-cookies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Merge Sort
 |  |
 | ------- |
