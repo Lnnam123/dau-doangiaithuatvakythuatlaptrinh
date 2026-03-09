@@ -38,6 +38,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2085-count-common-words-with-one-occurrence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1796-second-largest-digit-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -217,4 +219,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
