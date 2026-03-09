@@ -108,6 +108,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2085-count-common-words-with-one-occurrence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
