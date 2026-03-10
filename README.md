@@ -87,6 +87,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -173,6 +174,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0860-lemonade-change](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -198,6 +200,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Queue
 |  |
 | ------- |
