@@ -44,6 +44,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2129-capitalize-the-title) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
@@ -220,6 +222,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
