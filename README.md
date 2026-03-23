@@ -45,6 +45,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2085-count-common-words-with-one-occurrence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
