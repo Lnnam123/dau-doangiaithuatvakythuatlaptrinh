@@ -52,6 +52,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2239-find-closest-number-to-zero](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -149,6 +151,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -252,6 +255,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [2169-count-operations-to-obtain-zero](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
