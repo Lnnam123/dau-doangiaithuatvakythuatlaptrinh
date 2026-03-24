@@ -11,6 +11,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0014-longest-common-prefix](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
@@ -189,6 +190,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0011-container-with-most-water](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
