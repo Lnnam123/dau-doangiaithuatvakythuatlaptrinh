@@ -305,6 +305,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2000-reverse-prefix-of-word) |
@@ -312,4 +313,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
