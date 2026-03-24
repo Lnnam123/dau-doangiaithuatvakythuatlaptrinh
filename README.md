@@ -14,6 +14,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0027-remove-element](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -94,6 +95,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | ------- |
 | [0015-3sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
@@ -192,6 +194,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
