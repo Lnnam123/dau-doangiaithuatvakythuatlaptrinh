@@ -297,6 +297,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -319,4 +320,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0155-min-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
