@@ -9,6 +9,6 @@ class Solution(object):
         """
         # Ghi đè phần đuôi của nums1 (từ vị trí m đến hết) bằng toàn bộ nums2
         nums1[m:] = nums2
-        
+
         # Sắp xếp lại toàn bộ mảng nums1 từ bé đến lớn
         nums1.sort()
