@@ -28,6 +28,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0495-teemo-attacking](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
@@ -296,6 +297,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
