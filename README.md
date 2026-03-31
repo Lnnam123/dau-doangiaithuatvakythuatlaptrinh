@@ -355,4 +355,12 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0219-contains-duplicate-ii](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
