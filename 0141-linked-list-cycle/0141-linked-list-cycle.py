@@ -25,7 +25,7 @@ class Solution(object):
             
             # Nếu hai con trỏ trỏ về cùng một vùng nhớ (cùng một node)
             if rua == tho:
-                return True          # Bắt quả tang có chu kỳ!
+                return True          # Bắt chu kỳ!
                 
         # Thỏ đã chạy đến tận cùng danh sách mà không gặp Rùa
         return False
