@@ -360,10 +360,12 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
