@@ -12,6 +12,6 @@ class Solution(object):
                 chuoi_sach.append(ky_tu.lower()) # Đổi thành chữ thường rồi cho vào mảng
                 
         # BƯỚC 2: SO SÁNH VỚI CHUỖI ĐẢO NGƯỢC
-        # Trong Python, cú pháp [::-1] dùng để đảo ngược mảng cực kỳ tiện lợi
+        # Trong Python, cú pháp [::-1] dùng để đảo ngược mảng
         return chuoi_sach == chuoi_sach[::-1]
         
