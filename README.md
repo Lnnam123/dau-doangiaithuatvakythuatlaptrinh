@@ -143,6 +143,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0058-length-of-last-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
@@ -394,6 +395,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -411,6 +414,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,4 +424,8 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
