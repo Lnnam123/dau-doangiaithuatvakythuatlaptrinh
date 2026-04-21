@@ -389,17 +389,20 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0094-binary-tree-inorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -408,4 +411,5 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
