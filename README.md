@@ -352,6 +352,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0145-binary-tree-postorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -414,6 +415,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -432,6 +434,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0572-subtree-of-another-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -454,6 +457,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -462,6 +466,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
