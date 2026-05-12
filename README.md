@@ -56,6 +56,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
+| [1652-defuse-the-bomb](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
@@ -403,6 +404,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0219-contains-duplicate-ii](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
+| [1652-defuse-the-bomb](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1652-defuse-the-bomb) |
 ## Linked List
 |  |
 | ------- |
