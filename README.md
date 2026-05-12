@@ -416,6 +416,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0700-search-in-a-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -435,6 +436,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -458,6 +460,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0700-search-in-a-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -478,6 +481,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0226-invert-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
