@@ -510,4 +510,5 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
