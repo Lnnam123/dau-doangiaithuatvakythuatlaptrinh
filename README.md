@@ -22,6 +22,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0200-number-of-islands) |
@@ -322,6 +323,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2206-divide-array-into-equal-pairs) |
