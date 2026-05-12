@@ -306,6 +306,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2180-count-integers-with-even-digit-sum) |
