@@ -182,6 +182,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [1844-replace-all-digits-with-characters](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2000-reverse-prefix-of-word) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2027-minimum-moves-to-convert-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -272,6 +273,7 @@ DAU-Đồ án giải thuật và kỹ thuật lập trình
 | [0605-can-place-flowers](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/0881-boats-to-save-people) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Lnnam123/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
